@@ -12,6 +12,8 @@ packages = [
 python = "^3.11"
 Django = "^5.1"
 python-dotenv = "^1.0.1"
+dj-database-url = "^2.2.0"
+dj-config-url = "^0.1.1"
 
 
 [tool.poetry.group.dev.dependencies]
